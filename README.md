@@ -51,7 +51,7 @@ A comprehensive retail sales dataset analysis completed as part of the **Logic S
 ## 📸 Dashboard Previews
 
 ### Dashboard 1
-![Dashboard 1](Total_Sales_by_Product_Category.png)
+![Total Sales by Product Category](Total%20Sales%20by%20Product%20Category.png))
 
 ### Dashboard 2
 ![Dashboard 2](Total_Quantity_Sold_by_Product_Category.png)
