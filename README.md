@@ -1,6 +1,6 @@
-# 🛒 Retail Sales Data Analysis — Week 1 Task
+# 🛒 Retail Sales Data Analysis — Logic Stack Internship
 
-A comprehensive retail sales dataset analysis completed as part of the **Logic Stack Data Analyst Internship**. This task covers the full data analysis workflow — from raw data cleaning to visual dashboards.
+A complete retail sales analysis project completed as part of the **Logic Stack Data Analyst Internship**, covering two weeks of progressive analytical work — from basic Excel analysis to advanced pivot tables, KPIs, and a Power BI dashboard.
 
 ---
 
@@ -8,14 +8,19 @@ A comprehensive retail sales dataset analysis completed as part of the **Logic S
 
 | File | Description |
 |------|-------------|
-| `Retail_Sales_Analysis.xlsx` | Main Excel workbook with all analysis sheets |
-| `Dashboard_1.png` | Sales overview dashboard |
-| `Dashboard_2.png` | Product/category breakdown dashboard |
-| `Dashboard_3.png` | Trends & insights dashboard |
+| `Retail_Sales_Analysis.xlsx` | Week 1 — Main Excel workbook with all analysis sheets |
+| `Week 2 Task Advanced Excel Analysis.xlsx` | Week 2 — Pivot tables and KPI calculations |
+| `Retail Sales Dashboard.pbix` | Week 2 — Power BI dashboard file |
+| `Total_Sales_by_Product_Category.png` | Week 1 — Dashboard image |
+| `Total_Quantity_Sold_by_Product_Category.png` | Week 1 — Dashboard image |
+| `Total_Sales_by_Gender.png` | Week 1 — Dashboard image |
+| `Retail Sales Dashboard.png` | Week 2 — Power BI dashboard screenshot |
 
 ---
 
-## 📊 Excel Workbook — Sheet Breakdown
+## 📅 Week 1 — Retail Sales Dataset Analysis
+
+### 📊 Excel Workbook — Sheet Breakdown
 
 | Sheet | Description |
 |-------|-------------|
@@ -28,56 +33,63 @@ A comprehensive retail sales dataset analysis completed as part of the **Logic S
 | **Charts** | All charts and visualizations created from the data |
 | **Observations** | Key findings, patterns, and insights drawn from the analysis |
 
----
+### ✅ What Was Done:
+- Loaded and explored the raw retail sales dataset
+- Performed data cleaning (removed duplicates, handled nulls, fixed formatting)
+- Conducted dataset understanding and data quality checks
+- Performed basic analysis (totals, averages, counts)
+- Applied sorting and filtering to extract insights
+- Built charts to visualize sales trends
+- Created 3 dashboards
+- Documented observations and key findings
 
-## 🔍 Task Overview
+### 📸 Week 1 Dashboard Previews
 
-- **Internship Provider:** Logic Stack  
-- **Task:** Week 1 — Retail Sales Dataset Analysis  
-- **Tool Used:** Microsoft Excel  
+![Total Sales by Product Category](Total%20Sales%20by%20Product%20Category.png)
 
-### What Was Done:
-- ✅ Loaded and explored the raw retail sales dataset
-- ✅ Performed data cleaning (no duplicates were found, no nulls, fixed formatting)
-- ✅ Conducted dataset understanding and data quality checks
-- ✅ Performed basic analysis (totals, averages, counts)
-- ✅ Applied sorting and filtering to extract insights
-- ✅ Built charts to visualize sales trends
-- ✅ Created 3 interactive dashboards
-- ✅ Documented observations and key findings
-
----
-
-## 📸 Dashboard Previews
-
-### Dashboard 1
-![Total Sales by Product Category](Total%20Sales%20by%20Product%20Category.png))
-
-### Dashboard 2
 ![Total Quantity Sold by Product Category](Total%20Quantity%20Sold%20by%20Product%20Category.png)
 
-### Dashboard 3
 ![Total Sales by Gender](Total%20Sales%20by%20Gender.png)
 
 ---
 
-## 💡 Key Observations
+## 📅 Week 2 — Advanced Excel Analysis + Power BI Dashboard
 
-*(Add your top 3–5 findings here — for example:)*
-- Highest sales were recorded in [Electronics Category]
-- [Female Gender] contributed the most to total revenue
-- [Senior Adult Age Group] contributed the most to total revenue
+### 📊 Excel Workbook — Sheet Breakdown
+
+| Sheet | Description |
+|-------|-------------|
+| **Pivot Tables** | Dynamic summaries of sales by category, gender, and time |
+| **KPI Calculations** | Total Sales, Total Transactions, Total Quantity Sold, Average Sales, Highest & Lowest Transaction |
+
+### ✅ What Was Done:
+- Built pivot tables to summarize and slice the retail sales data
+- Calculated core KPIs: Total Sales, Total Transactions, Total Quantity Sold, Average Sales, Highest & Lowest Transaction
+- Designed and built a full Power BI dashboard with 3 sections:
+  - **Top Row** — KPI cards (Total Sales, Transactions, Quantity, Avg Sales)
+  - **Middle** — Category Sales bar chart & Gender split pie chart
+  - **Bottom** — Sales over time line chart
+
+### 📸 Week 2 — Power BI Dashboard Preview
+
+![Retail Sales Dashboard](Retail%20Sales%20Dashboard.png)
 
 ---
 
 ## 🛠 Tools Used
 
-- Microsoft Excel (Pivot Tables, Charts, Filtering, Formatting, Dashboards)
+| Tool | Purpose |
+|------|---------|
+| Microsoft Excel | Data cleaning, analysis, pivot tables, KPIs, charts |
+| Power BI | Interactive dashboard and data visualization |
 
 ---
 
 ## 👤 Author
+**Talha Ali**
+Data Analyst Intern — Logic Stack
+[LinkedIn](https://linkedin.com/in/talhah-ali/) | [GitHub](https://github.com/talhahkhan819-ai)
 
-**Talha Ali**  
-Data Analyst Intern — Logic Stack  
-[LinkedIn](https://www.linkedin.com/in/talhah-ali) | [GitHub](https://github.com/talhahkhan819-ai)
+**Talha Ali**
+Data Analyst Intern — Logic Stack
+[LinkedIn](https://linkedin.com/in/talhah-ali/) | [GitHub](https://github.com/talhahkhan819-ai)
